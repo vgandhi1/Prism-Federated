@@ -1,3 +1,5 @@
+> ⚠️ **ARCHIVED (2026-06-30)** — consolidated into [vgandhi1/ml-system](https://github.com/vgandhi1/ml-system/tree/main/Prism-Federated). Development continues there.
+
 <div align="center">
 
 # Prism-Federated
